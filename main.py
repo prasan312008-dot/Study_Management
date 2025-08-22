@@ -1,6 +1,5 @@
 import pymysql
 
-# User Defined Functions/Methods
 
 def connectdatabase():
     return pymysql.connect(
